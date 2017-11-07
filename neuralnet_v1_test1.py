@@ -1,3 +1,5 @@
+#simple test, just to check its working
+
 import numpy as np
 import neuralnet_v1 as my_neural
     
